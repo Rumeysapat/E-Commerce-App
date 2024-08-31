@@ -1,0 +1,114 @@
+# .NET Core
+bin/
+obj/
+*.log
+*.vs
+*.user
+*.suo
+*.dll
+*.exe
+*.app
+*.db
+*.log
+*.pdb
+*.cache/
+.vscode/
+.vs/
+*.db-journal
+
+# User-specific files
+*.rsuser
+*.sln.docstates
+
+# OS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS-specific files
+__MACOSX/
+*.swp
+._*
+
+# Lock files
+project.lock.json
+project.fragment.lock.json
+
+# Package directories
+node_modules/
+bower_components/
+**/node_modules/
+**/bower_components/
+
+# Tooling
+.vscode/
+.ionide/
+.idea/
+*.sln.ide
+
+# Logs
+logs/
+*.log
+
+# Transient crash reports
+crashlog/
+
+# Build results
+*.o
+*.pyc
+*.pyo
+*.class
+*.csproj.user
+*.pdb
+*.exe
+*.dll
+*.app
+*.log
+*.pid
+*.swp
+*.sln.ide
+
+# EF Core migrations
+Migrations/
+
+# wwwroot folder
+wwwroot/
+
+# Published website
+.publish/
+
+# Database files
+*.mdf
+*.ldf
+*.ndf
+*.sqlite
+*.db
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Entity Framework
+*.edmx.sql
+
+# Rider files
+.idea/
+.idea/*.iws
+.idea/*.iml
+.idea/workspace.xml
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Resharper files
+_ReSharper*/
+
+# JetBrains Rider
+.idea/
+# wwwroot folder
+wwwroot/
